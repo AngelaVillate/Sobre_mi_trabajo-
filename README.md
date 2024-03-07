@@ -1,13 +1,8 @@
 # Sobre_mi_trabajo-
-Metodológa, investigadora y analista de datos cualitativos para proyectos sociales y de justica.
-Capacitadora en análisis y redacción de textos jurídicos, de investigación y empresariales.
-Experiencia en industria editorial e investigación para proyectos sociales.
-Storytelling wiht data: textos con valor, visualización de información y comunicación eficiente.
+Soy consultora en inteligencia artificial, analítica de datos, visualización de la información, comunicación estratégica y complejidad social. Siempre a medio camino entre las humanidades y la tecnología, trabajo para lograr la feliz confluencia de los algoritmos y los libros, los números y las letras, las máquinas y el mundo de la vida.
+En este propósito no estoy sola, me acompañan algunos colegas, un puñado de amigos, las ideas de Morin, Serres, Luhmann, Eco… La curiosidad inagotable, fuente de todo conocimiento, me ha llevado a transitar por la filosofía, la lingüística, el derecho, la inteligencia artificial y la análitica de datos. Me muevo entre lo cuantitativo y lo cualitativo como pez en el agua.
 
-Interesada en:
-  Análisis de textos
-  Visualización de la información
-  Generación de contenidos científicos
-  Difusión y divulgación de la información
-https://www.linkedin.com/in/angela-cristina-villate-moreno-colaborarcentrodepensamiento/
+Conoce más sobre mi en: 
+https://www.linkedin.com/in/villatelab/ 
+www.villatelab.com 
  
